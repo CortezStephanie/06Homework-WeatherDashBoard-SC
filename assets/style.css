@@ -1,0 +1,38 @@
+#header {
+    text-align: center;
+    background-color: slateblue;
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.forecast {
+    display:flex;
+    justify-content: end;
+}
+
+.day1 {
+    background-color: slateblue;
+}
+
+.day2 {
+    background-color: slategray;
+}
+
+.day3 {
+    background-color: springgreen;
+}
+
+.day4 {
+    background-color: violet;
+}
+
+.day4 {
+    background-color: yellow;
+}
+
+.day5 {
+    background-color: brown;
+}
