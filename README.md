@@ -2,6 +2,7 @@
 #  Weather Dashboard
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ##  Be able to view the weather for multiple cities.
+Deployed Link: [https://cortezstephanie.github.io/server-api-weather-dashboard/](https://cortezstephanie.github.io/server-api-weather-dashboard/)
 ### Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
