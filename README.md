@@ -11,6 +11,7 @@
 `npm i ` for installation 
 ### Usage
 Type in a city into the search input and recieve the weather forecast for the week. 
+![Image of weather dashboard](./assets/images/weatherdashboard.png)
 ## License
 This repository is covered by the MIT License  <br> 
 https://opensource.org/licenses/MIT
