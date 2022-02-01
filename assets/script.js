@@ -1,3 +1,4 @@
+// Change var to let when redoing the homework 
 var myAPI = "15b53e060471497cb84acecbc2424d03";
 
 var cityName = document.getElementById("cityInput");
